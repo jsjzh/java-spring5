@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>demo01-start</artifactId>
+    <artifactId>demo02-ioc-xml</artifactId>
 
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
